@@ -1,0 +1,21 @@
+
+*{
+    text-align: center;
+    font-family: Monaco ;
+    padding: 10px;
+
+}
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    font-size: 70px;
+}
+
+body{
+    background: linear-gradient(to right,  #ED4264, #FFEDBC);
+    
+}
+
